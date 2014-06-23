@@ -6,7 +6,7 @@ PickerView 实现table列表多选
 
 `ALPickerView` is an attempt to mime the multiple selection behavior of Cocoa Touch's `UIPickerView` (as seen in Mobile Safari).
 
-![ALPickerView Screenshot](https://github.com/xyzs996/ALPickerView/tree/master/CYCustomMultiSelectPickerView/snapshot/iOS 模拟器屏幕快照“2014年6月23日 17.38.56”.png "ALPickerView Screenshot")
+![ALPickerView Screenshot](https://raw.githubusercontent.com/xyzs996/ALPickerView/master/CYCustomMultiSelectPickerView/Screenshot/2.png "ALPickerView Screenshot")
 
 ~~Requires iOS SDK 4.0 or higher~~ *Update*: `ALPickerView` should now be compatible from iOS3 to latest
 
